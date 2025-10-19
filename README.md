@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mitchellsears/mitchellsears/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/mitchellsears/mitchellsears/main/banner.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mitchell Sears</h1>
@@ -8,8 +8,10 @@
 
 ---
 
-- 🌱 I’m currently learning **SQL, Snowflake, Python**
-- 🔭 I’m interested in transforming data into KPIs and exploring to world of data engineering 
+- 🌱 I’m currently learning **SQL, Python**
+
+- 🔭 I’m interested in building data pipelines and scalable analytics tools
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mitchellsears/)
 
 ---
