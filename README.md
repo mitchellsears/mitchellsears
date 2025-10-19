@@ -9,7 +9,7 @@
 ---
 
 - 🌱 I’m currently learning **SQL, Snowflake, Python**
-- 🔭 I’m interested in transforming data in KPIs and exploring to world of data engineering 
+- 🔭 I’m interested in transforming data into KPIs and exploring to world of data engineering 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mitchellsears/)
 
 ---
