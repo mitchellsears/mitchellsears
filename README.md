@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/mitchellsears/mitchellsears/main/banner.jpg" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mitchell Sears</h1>
-<h3 align="center">Data Analyst | Aspiring Data Engineer</h3>
+<h1 align="center">Hi, I'm Mitchell Sears</h1>
+<h3 align="center">Data Analyst | Data Engineering</h3>
 
 ---
 
